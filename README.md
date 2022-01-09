@@ -4,7 +4,7 @@ Send message on Discord via Webhook
 
 
 ## Requirement
-Download (cURL)[https://curl.se/download.html] according to the OS you are using.
+Download [cURL](https://curl.se/download.html) according to the OS you are using.
 
 ## Guide
 ``` 
